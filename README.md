@@ -84,7 +84,7 @@ To run this program you will require a bunch of API keys. Register your API key 
 
 
 ## License
-This project is licensed under [MIT License](https://github.com/Gladiator07/JARVIS/blob/master/LICENSE) 2021 Atharva Ingle
+This project is licensed under [MIT License](https://github.com/Gladiator07/JARVIS/blob/master/LICENSE) 2025 Md Danish Alam
 
 ## Future Improvements
 - Generalized conversations can be made possible by incorporating Natural Language Processing
